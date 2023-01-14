@@ -1,0 +1,190 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* header and navigation style */
+nav{
+    text-align: center;
+    padding: 174px 307px;
+    color: wheat;
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+}
+.banner-title{
+font-weight: 700;
+font-size: 65px;
+color: white;
+
+}
+.button-primary{
+    background-color:  #ff5959;
+    color: white;
+    padding: 16px 12px;
+    border-radius: 5px;
+    width: 160px;
+    height: 56px;
+    margin-top: 15px;
+}
+.header{
+    background-image: url('../images/donation5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* main section */
+main{
+    max-width: 691px;
+    margin: 0 auto;
+}
+/* about section styles */
+.donate{
+    margin-top: 80px;
+    padding: 20px;
+    text-align: center;
+}
+.section-title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.section-description{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 50px;
+
+}
+.one{
+    width: 100px;
+    height: 85px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    margin-bottom: 90px;
+    font-weight: 300px;
+    font-size: 25px;
+}
+.two{
+    width: 100px;
+    height: 85px;
+    background: #FFEEEE;
+    border: 2px solid #FF5959;
+    border-radius: 5px;
+    margin-bottom: 90px;
+    font-weight: 300px;
+    font-size: 25px;
+}
+.three{
+    width: 100px;
+    height: 85px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    margin-bottom: 90px; 
+    font-weight: 300px;
+    font-size: 25px;
+}
+.four{
+    width: 100px;
+    height: 85px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    margin-bottom: 90px;
+    font-weight: 300px;
+    font-size: 25px; 
+}
+.five{
+    width: 100px;
+    height: 85px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    margin-bottom: 90px;
+    font-weight: 300px;
+    font-size: 25px; 
+}
+.button-secondery{
+    margin-top: 30px;
+    background-color: #FF5959;
+    color: #FFEEEE;
+    padding: 16px 12px;
+    gap: 8px;
+    border-radius: 5px;
+}
+.middle{
+    text-align: center;
+}
+.middle-title{
+    
+}
+.middle-description{
+    margin-bottom: 60px;
+}
+.six{
+    width: 300px;
+height: 260px;
+background: rgba(79, 157, 166, 0.1);
+border-radius: 5px;
+}
+.seven{
+    width: 300px;
+height: 260px;
+background: rgba(255, 89, 89, 0.1);
+border-radius: 5px;
+}
+.eight{
+    width: 300px;
+height: 260px;
+background-color: #f89191;
+}
+.last{
+    display: flex;
+}
+.six-title{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.seven-title{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.eight-title{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.low{
+    margin-top: 190px;
+}
+.low-title{
+    font-size: 50px;
+
+}
+.nine{
+    
+background: #FF5959;
+border-radius: 5px;
+justify-content: center;
+align-items: center;
+padding: 16px 12px;
+margin-top: 20px;
+color: white;
+}
+.lower{
+    margin-top: 100px;
+}
+.lower-title{
+    font-size: 50px;
+}
+.ten{
+    background: #FF5959;
+border-radius: 5px;
+justify-content: center;
+align-items: center;
+padding: 16px 12px;
+margin-top: 20px;
+color: white
+
+}
+.lower-description{
+    margin-bottom: 20px;
+}
+.last{
+    display: inline;
+}
+.last-title{
+    font-size: 50px;
+    margin-top: 80px;
+}
